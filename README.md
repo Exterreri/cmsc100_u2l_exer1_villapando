@@ -1,6 +1,6 @@
 Villapando, Harold Kim A.
 BS Computer Science
-https://exterreri.github.io/cmsc100_u2l_exer1_villapando/
+https://exterreri.github.io/villapando_cmsc100u2l_exercise02/
 
 1. Repository settings
 2. Pages
